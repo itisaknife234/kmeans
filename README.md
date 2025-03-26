@@ -1,4 +1,6 @@
 > Original Code by https://github.com/dscoool/machinelearning11/blob/main/7.%ED%83%9D%EB%B0%B0_%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%B5%9C%EC%A0%81%ED%99%94(%ED%95%99%EC%8A%B5%EC%A7%80).ipynb
+>
+> 
 > ups.py will show you this
 
 ![스크린샷 2025-03-26 101418](https://github.com/user-attachments/assets/c673de92-eefd-403c-8676-11747890302d)
